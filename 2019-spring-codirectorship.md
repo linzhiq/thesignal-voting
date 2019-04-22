@@ -1,4 +1,4 @@
-## Co-Directorship *(2)*, Spring 2019
+## Co-Directors (2), Spring 2019
 ### Date
 Monday, April 22nd
 ### Candidates *(2)*
