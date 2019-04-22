@@ -1,15 +1,18 @@
-# Voting Records
-## Co-Directorship, Spring 2019
+## Co-Directorship *(2)*, Spring 2019
 ### Date
 Monday, April 22nd
-### Candidates
-Olivia O'Dwyer
-Sophia Ye
+### Candidates *(2)*
+Olivia O'Dwyer '21
+<br>Sophia Ye '20
 ### Type
-Vote of Confidence 
-### Participants
-Abhi Motgi, Adel Wu, Airika Yee, Alicia Lu, Ben Fung, Cassandra Li, Eddie Cai, Faith Cho, Grace Jiang, Hannah Wang, Hoyt Gong, Jerome Cohen, Jess Li, Jonathan Mak, Justin Lieb, Kaitlyn Rentala, Kasra Koushan, Kevin Xu, Mariri Niino, Melinda Hu, Miguel De Armas, Olivia O'Dwyer, Qi Linzhi, Rajvi Gemawat, Tunika Onnekikami, Will Yoo
+Vote of Confidence at 50% threshold
+### Participants *(25)*
+Abhi Motgi, Adel Wu, Airika Yee, Alicia Lu, Ben Fung, Cassandra Li, Eddie Cai, Faith Cho, Grace Jiang, Hannah Wang, Hoyt Gong, Jerome Cohen, Jess Li, Jonathan Mak, Justin Lieb, Kaitlyn Rentala, Kasra Koushan, Kevin Xu, Mariri Niino, Melinda Hu, Miguel De Armas, Qi Linzhi, Rajvi Gemawat, Tunika Onnekikami, Will Yoo
 
-
-[![](https://api.gh-polls.com/poll/01D9348CTN9NEX8KTN4G5M6EQ5/1)](https://api.gh-polls.com/poll/01D9348CTN9NEX8KTN4G5M6EQ5/1/vote)
-[![](https://api.gh-polls.com/poll/01D9348CTN9NEX8KTN4G5M6EQ5/2)](https://api.gh-polls.com/poll/01D9348CTN9NEX8KTN4G5M6EQ5/2/vote)
+## Votes
+### Candidate 1: Olivia O'Dwyer
+[![](https://api.gh-polls.com/poll/01D935X7NS1ECTDN2SZ7TZP42Y/Yea%20(Olivia%20O'Dwyer))](https://api.gh-polls.com/poll/01D935X7NS1ECTDN2SZ7TZP42Y/Yea%20(Olivia%20O'Dwyer)/vote)
+[![](https://api.gh-polls.com/poll/01D935X7NS1ECTDN2SZ7TZP42Y/Nay%20(Olivia%20O'Dwyer))](https://api.gh-polls.com/poll/01D935X7NS1ECTDN2SZ7TZP42Y/Nay%20(Olivia%20O'Dwyer)/vote)
+### Candidate 2: Sophia Ye
+[![](https://api.gh-polls.com/poll/01D935R4S2871AP7SDZ43FSWKT/Yea%20(Sophia%20Ye))](https://api.gh-polls.com/poll/01D935R4S2871AP7SDZ43FSWKT/Yea%20(Sophia%20Ye)/vote)
+[![](https://api.gh-polls.com/poll/01D935R4S2871AP7SDZ43FSWKT/Nay%20(Sophia%20Ye))](https://api.gh-polls.com/poll/01D935R4S2871AP7SDZ43FSWKT/Nay%20(Sophia%20Ye)/vote)
