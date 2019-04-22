@@ -5,7 +5,7 @@ Monday, April 22nd
 Olivia O'Dwyer '21
 <br>Sophia Ye '20
 ### Type
-Vote of Confidence at 50% threshold
+Majority vote of confidence
 ### Participants *(25)*
 Abhi Motgi, Adel Wu, Airika Yee, Alicia Lu, Ben Fung, Cassandra Li, Eddie Cai, Faith Cho, Grace Jiang, Hannah Wang, Hoyt Gong, Jerome Cohen, Jess Li, Jonathan Mak, Justin Lieb, Kaitlyn Rentala, Kasra Koushan, Kevin Xu, Mariri Niino, Melinda Hu, Miguel De Armas<sup>(absentee)</sup>, Qi Linzhi, Rajvi Gemawat, Tunika Onnekikami, Will Yoo
 
