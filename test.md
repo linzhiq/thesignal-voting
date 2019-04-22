@@ -1,3 +1,7 @@
+## Vote Group #0
+### Who are we?
+[![](https://api.gh-polls.com/poll/01D939KE06SXFPH04KSKBBHGM8/The%20Signal)](https://api.gh-polls.com/poll/01D939KE06SXFPH04KSKBBHGM8/The%20Signal/vote)
+
 ## Vote Group #1
 ### Where to live?
 [![](https://api.gh-polls.com/poll/01D936WHX5QTBDG69XXQ42BAG1/The%20Quad)](https://api.gh-polls.com/poll/01D936WHX5QTBDG69XXQ42BAG1/The%20Quad/vote)
