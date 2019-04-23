@@ -6,8 +6,8 @@ Olivia O'Dwyer '21
 <br>Sophia Ye '20
 ### Type
 Majority vote of confidence
-### Participants *(25)*
-Abhi Motgi, Adel Wu, Airika Yee, Alicia Lu, Ben Fung, Cassandra Li, Eddie Cai, Faith Cho, Grace Jiang, Hannah Wang, Hoyt Gong, Jerome Cohen, Jess Li, Jonathan Mak, Justin Lieb, Kaitlyn Rentala, Kasra Koushan, Kevin Xu, Mariri Niino, Melinda Hu, Miguel De Armas<sup>(absentee)</sup>, Qi Linzhi, Rajvi Gemawat, Tunika Onnekikami<sup>(absentee)</sup>, Will Yoo
+### Participants *(26)*
+Abhi Motgi, Adel Wu, Airika Yee, Alicia Lu, Ben Fung, Bill He<sup>(absentee)</sup>, Cassandra Li, Eddie Cai, Faith Cho, Grace Jiang, Hannah Wang, Hoyt Gong, Jerome Cohen, Jess Li, Jonathan Mak, Justin Lieb, Kaitlyn Rentala, Kasra Koushan, Kevin Xu, Mariri Niino, Melinda Hu, Miguel De Armas<sup>(absentee)</sup>, Qi Linzhi, Rajvi Gemawat, Tunika Onnekikami<sup>(absentee)</sup>, Will Yoo
 
 ## Votes
 ### Candidate 1: Olivia O'Dwyer
